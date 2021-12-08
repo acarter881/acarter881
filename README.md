@@ -7,7 +7,7 @@
 - 🥅 2022 Goal: Continue improving
 
 ### Connect with me:
-[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"/>][youtube]
+[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/2048px-YouTube_social_red_circle_%282017%29.svg.png"/>][youtube]
 [<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="acarter881 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>][instagram]
 
@@ -17,7 +17,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>]
-[<img align="left" alt="SQL" width="26px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg"/>]
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>]
 
 <br />
 <br />
