@@ -31,6 +31,10 @@
 ---
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarter881&show_icons=true&theme=radical)](https://github.com/acarter881/github-readme-stats)
+###
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarter881&layout=compact)](https://github.com/acarter881/github-readme-stats)
 
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
