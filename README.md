@@ -21,6 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
+- [SVDDEN DEATH&#39;s Dubstep Song Made in 30 Minutes. 👂](https://www.youtube.com/watch?v=DAxq_qHRF-s)
+- [SVDDEN DEATH&#39;s House Song Made In 30 Minutes](https://www.youtube.com/watch?v=cqUI9Nq3qoY)
+- [SVDDEN DEATH Made This in 30 Minutes...](https://www.youtube.com/watch?v=3wBO9m-RFMw)
+- [Effin - INSANE ID 🔥🎧🗣](https://www.youtube.com/watch?v=KiUxwbqlg2Q)
 <!-- YOUTUBE:END -->
 ---
 
