@@ -14,10 +14,11 @@
 <br />
 
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>]
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>]
+
+<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
