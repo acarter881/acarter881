@@ -22,7 +22,7 @@
 
 <br />
 
-### 📺 Latest YouTube videos:
+### Latest YouTube videos:
 <!-- YOUTUBE:START -->
 - [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
 - [SVDDEN DEATH&#39;s Dubstep Song Made in 30 Minutes. 👂](https://www.youtube.com/watch?v=DAxq_qHRF-s)
