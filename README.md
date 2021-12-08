@@ -14,9 +14,9 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>]
-[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>][visualStudioCode]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>][sql]
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -33,3 +33,6 @@
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
 [linkedin]: https://www.linkedin.com/in/acarter881/
+[visualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
+[python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[sql]: https://en.wikipedia.org/wiki/SQL
