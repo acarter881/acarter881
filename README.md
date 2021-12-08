@@ -1,4 +1,4 @@
-### Hello, my name is Alex. 
+### Hello, my name is Alex. 👋
 
 ## I'm a CPA and currently work as an Analyst.
 
@@ -13,14 +13,14 @@
 
 <br />
 
-### Languages and Tools
+### Languages and tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>][visualStudioCode]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>][sql]
 
 <br />
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube videos
 <!-- YOUTUBE:START -->
 - [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
 - [SVDDEN DEATH&#39;s Dubstep Song Made in 30 Minutes. 👂](https://www.youtube.com/watch?v=DAxq_qHRF-s)
