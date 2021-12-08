@@ -1,10 +1,10 @@
-### Hello, my name is Alex. 👋
+# Hello, my name is `Alex`. 👋
 
-## I'm a CPA and currently work as an Analyst.
+### I'm a CPA and currently work as an Analyst at [BD](https://www.bd.com/en-us).
 
 - 🌱 Recently, I've been working on gathering and analyzing data from Tinder.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: (1) Continue improving my technical abilities and (2) Growing my network.
+- 🥅 2022 Goals: (1) Improve my technical abilities and (2) Grow my network.
 
 ### Connect with me:
 [<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/YouTube_Kids_LogoVector.svg/1267px-YouTube_Kids_LogoVector.svg.png"/>][youtube]
