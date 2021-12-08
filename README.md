@@ -16,6 +16,8 @@
 ### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>][visualStudioCode]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
+[<img align="left" alt="Excel" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888850.png"/>][excel]
+[<img align="left" alt="SAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1920px-SAP_2011_logo.svg.png"/>][sap]
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>][sql]
 
 <br />
@@ -41,4 +43,6 @@
 [linkedin]: https://www.linkedin.com/in/acarter881/
 [visualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[excel]: https://en.wikipedia.org/wiki/Microsoft_Excel
+[sap]: https://en.wikipedia.org/wiki/SAP
 [sql]: https://en.wikipedia.org/wiki/SQL
