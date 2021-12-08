@@ -18,6 +18,8 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
 [<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>][sql]
 
+<br />
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
