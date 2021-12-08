@@ -7,9 +7,9 @@
 - 🥅 2022 Goal: Continue improving
 
 ### Connect with me:
-[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="acarter881 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"/>][youtube]
+[<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="acarter881 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>][instagram]
 
 <br />
 
@@ -17,11 +17,10 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>]
-[<img align="left" alt="SQL" width="26px" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png"/>]
+[<img align="left" alt="SQL" width="26px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-basics.svg"/>]
 
 <br />
 <br />
----
 
 ### 📺 Latest YouTube Videos
 
