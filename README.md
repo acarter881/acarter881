@@ -7,7 +7,7 @@
 - 🥅 2022 Goal: Continue improving
 
 ### Connect with me:
-[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"/>][youtube]
+[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"/>][youtube]
 [<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="acarter881 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>][instagram]
 
