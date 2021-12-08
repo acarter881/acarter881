@@ -33,12 +33,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="acarter881's GitHub Stats" src="https://github-readme-stats.acarter881.vercel.app/api?username=acarter881&show_icons=true&hide_border=true"/>
-
-</details>
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarter881)](https://github.com/acarter881/github-readme-stats)
 
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
