@@ -1,6 +1,6 @@
 # Hello, my name is `Alex`. 👋
 
-### I'm a CPA and currently work as an Analyst at [BD](https://www.bd.com/en-us).
+### I'm a CPA and currently work as a Tax Analyst at [BD](https://www.bd.com/en-us).
 
 - 🌱 Recently, I've been working on gathering and analyzing data from Tinder.
 - 👯 I’m looking to collaborate with other content creators.
