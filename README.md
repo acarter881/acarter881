@@ -1,11 +1,11 @@
 # Hello, my name is `Alex`. 👋
 
-### I'm a CPA and currently work as a Tax Analyst at [BD](https://www.bd.com/en-us).
+### I'm a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant) and currently work as a Tax Analyst at [BD](https://www.bd.com/en-us).
 
-- 🌱 Recently, I've been working on gathering and analyzing data from Tinder.
+- 🌱 Recently, I've been working on gathering and analyzing data from [Tinder](https://github.com/acarter881/tinder_likes_data).
 - 👯 I want to collaborate with other content creators (e.g., for YouTube videos or GitHub repositories). <br>
 I am looking for motivated individuals with experience in topics such as programming, problem solving, IT, cryptocurrency, social media, and finance. <br>
-Some example content creators I follow are **[Biaheza](https://www.youtube.com/c/biaheza)**, **[Part Time Larry](https://www.youtube.com/c/parttimelarry)**, **[Meet Kevin](https://www.youtube.com/c/MeetKevin)**, **[Fireship](https://www.youtube.com/c/Fireship)**, **[Kalle Hallden](https://www.youtube.com/c/KalleHallden)**, and **[jdh](https://www.youtube.com/c/jdhvideo)**. <br>
+Some example content creators I follow are **[Biaheza](https://www.youtube.com/c/biaheza)**, **[Fireship](https://www.youtube.com/c/Fireship)**, **[jdh](https://www.youtube.com/c/jdhvideo)**, **[Kalle Hallden](https://www.youtube.com/c/KalleHallden)**, **[Meet Kevin](https://www.youtube.com/c/MeetKevin)**, and **[Part Time Larry](https://www.youtube.com/c/parttimelarry)**. <br>
 If you're interested in creating similar content and/or enjoy web scraping, social experiments, data analytics, etc., then feel free to email me at acarter881@gmail.com.
 - 🥅 **2022** Goals: (1) Improve my technical abilities and (2) Grow my network.
 
