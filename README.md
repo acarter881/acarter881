@@ -24,7 +24,7 @@
 
 ### Latest YouTube videos:
 <!-- YOUTUBE:START -->
-- [HOW TO: Google&#39;s Text-to-Speech &lpar;Python&rpar;](https://www.youtube.com/watch?v=EKPpMpKOLZo)
+- [HOW TO: Google&#39;s Text-to-Speech in 1 Minute &lpar;Python&rpar;](https://www.youtube.com/watch?v=EKPpMpKOLZo)
 - [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
 - [SVDDEN DEATH&#39;s Dubstep Song Made in 30 Minutes. 👂](https://www.youtube.com/watch?v=DAxq_qHRF-s)
 - [SVDDEN DEATH&#39;s House Song Made In 30 Minutes](https://www.youtube.com/watch?v=cqUI9Nq3qoY)
