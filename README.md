@@ -3,8 +3,11 @@
 ### I'm a CPA and currently work as a Tax Analyst at [BD](https://www.bd.com/en-us).
 
 - 🌱 Recently, I've been working on gathering and analyzing data from Tinder.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: (1) Improve my technical abilities and (2) Grow my network.
+- 👯 I want to collaborate with other content creators (e.g., for YouTube videos or GitHub repositories). <br>
+I am looking for motivated individuals with experience in topics such as programming, problem solving, IT, cryptocurrency, social media, and finance. <br>
+Some example content creators I follow are **[Biaheza](https://www.youtube.com/c/biaheza)**, **[Part Time Larry](https://www.youtube.com/c/parttimelarry)**, **[Meet Kevin](https://www.youtube.com/c/MeetKevin)**, **[Fireship](https://www.youtube.com/c/Fireship)**, **[Kalle Hallden](https://www.youtube.com/c/KalleHallden)**, and **[jdh](https://www.youtube.com/c/jdhvideo)**. <br>
+If you're interested in creating similar content and/or enjoy web scraping, social experiments, data analytics, etc., then feel free to email me at acarter881@gmail.com.
+- 🥅 **2022** Goals: (1) Improve my technical abilities and (2) Grow my network.
 
 ### Connect with me:
 [<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/YouTube_Kids_LogoVector.svg/1267px-YouTube_Kids_LogoVector.svg.png"/>][youtube]
@@ -32,7 +35,7 @@
 <!-- YOUTUBE:END -->
 ---
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarter881&show_icons=true&theme=radical)](https://github.com/acarter881/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarter881&show_icons=true&hide_rank=true&theme=radical)](https://github.com/acarter881/github-readme-stats)
 ###
 ---
 
