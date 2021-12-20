@@ -29,9 +29,9 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 <!-- YOUTUBE:START -->
 - [HOW TO: Google&#39;s Text-to-Speech in 1 Minute &lpar;Python&rpar;](https://www.youtube.com/watch?v=EKPpMpKOLZo)
 - [Tinder Time Lapse &lpar;Epic&rpar; | 8+ hrs in 3 Mins](https://www.youtube.com/watch?v=ZWvZJnCau0s)
-- [SVDDEN DEATH&#39;s Dubstep Song Made in 30 Minutes. 👂](https://www.youtube.com/watch?v=DAxq_qHRF-s)
-- [SVDDEN DEATH&#39;s House Song Made In 30 Minutes](https://www.youtube.com/watch?v=cqUI9Nq3qoY)
-- [SVDDEN DEATH Made This in 30 Minutes...](https://www.youtube.com/watch?v=3wBO9m-RFMw)
+- [CRANKDAT REACTS TO MARAUDA 🤣🎧 &lpar;HILARIOUS&rpar;](https://www.youtube.com/watch?v=elFtNGKOb3s)
+- [Yoi Bass in 1 MINUTE! [DUBSTEP] 🔥](https://www.youtube.com/watch?v=eUNS3xFPwhc)
+- [AMAZING Color Bass ID &lpar;ZEOL&rpar;](https://www.youtube.com/watch?v=JervoXivwso)
 <!-- YOUTUBE:END -->
 ---
 
