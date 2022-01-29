@@ -29,9 +29,9 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 <!-- YOUTUBE:START -->
 - [I Analyzed Over 9,000 Tinder Profiles 💏](https://www.youtube.com/watch?v=hL8r3QeERS0)
 - [I Made Tinder Hands-free](https://www.youtube.com/watch?v=SZUsfSjxaq0)
-- [HOW TO: Christmas Card for Your Crush/Partner in Photoshop](https://www.youtube.com/watch?v=xEn9617ntTQ)
-- [HOW TO: Bypass Ad Block Detection](https://www.youtube.com/watch?v=NgGM-94HUnI)
-- [When You Have No Confidence 🤣💀](https://www.youtube.com/watch?v=bGwihscG-lg)
+- [Christmas Card for Your Crush/Partner in Photoshop](https://www.youtube.com/watch?v=xEn9617ntTQ)
+- [Bypass Ad Block Detection](https://www.youtube.com/watch?v=NgGM-94HUnI)
+- [Google&#39;s Text-to-Speech API in 1 Minute &lpar;Python&rpar;](https://www.youtube.com/watch?v=EKPpMpKOLZo)
 <!-- YOUTUBE:END -->
 ---
 
