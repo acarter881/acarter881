@@ -27,7 +27,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 
 ### Latest YouTube videos:
 <!-- YOUTUBE:START -->
-- [Tinder Women&#39;s Passions](https://www.youtube.com/watch?v=m9kUMYctDIE)
+- [I Analyzed Tinder Women&#39;s Passions](https://www.youtube.com/watch?v=m9kUMYctDIE)
 - [Make ASCII Art in Seconds!](https://www.youtube.com/watch?v=AOlrJKI3Mu0)
 - [I Analyzed Over 9,000 Tinder Profiles](https://www.youtube.com/watch?v=hL8r3QeERS0)
 - [I Made Tinder Hands-free](https://www.youtube.com/watch?v=SZUsfSjxaq0)
