@@ -1,6 +1,6 @@
 # Hello, my name is `Alex`. 👋
 
-### I'm a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant) and currently work as a Tax Analyst at [BD](https://www.bd.com/en-us).
+### I'm a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant) and work as a Senior Financial Data Analyst at [Avalara](https://www.avalara.com/us/en/index.html).
 
 - 🌱 Recently, I've been working on gathering and analyzing data from [Tinder](https://github.com/acarter881/tinder_likes_data).
 - 👯 I want to collaborate with other content creators (e.g., for YouTube videos or GitHub repositories). <br>
