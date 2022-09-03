@@ -33,13 +33,6 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 - [I Made Tinder Hands-free](https://www.youtube.com/watch?v=SZUsfSjxaq0)
 - [Christmas Card for Your Crush/Partner in Photoshop](https://www.youtube.com/watch?v=xEn9617ntTQ)
 <!-- YOUTUBE:END -->
----
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarter881&show_icons=true&hide_rank=true&theme=radical)](https://github.com/acarter881/github-readme-stats)
-###
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarter881&layout=compact&theme=radical&disable_animations=true)](https://github.com/acarter881/github-readme-stats)
 
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
