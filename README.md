@@ -37,7 +37,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
 [linkedin]: https://www.linkedin.com/in/acarter881/
-[alteryx]: https://www.alteryx.com/
+[alteryx]: https://en.wikipedia.org/wiki/Alteryx
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [excel]: https://en.wikipedia.org/wiki/Microsoft_Excel
 [sap]: https://en.wikipedia.org/wiki/SAP
