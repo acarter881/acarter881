@@ -17,7 +17,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 <br />
 
 ### Languages and tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/512/1*_T_tWFGY29J6MEKek1vBaw.png"/>][visualStudioCode]
+[<img align="left" alt="Alteryx" width="26px" src="https://imgur.com/YFvqQeU.jpg"/>][alteryx]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
 [<img align="left" alt="Excel" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888850.png"/>][excel]
 [<img align="left" alt="SAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1920px-SAP_2011_logo.svg.png"/>][sap]
@@ -37,7 +37,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 [youtube]: https://www.youtube.com/c/alexcarter881
 [instagram]: https://www.instagram.com/acarter881/
 [linkedin]: https://www.linkedin.com/in/acarter881/
-[visualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
+[alteryx]: https://www.alteryx.com/
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [excel]: https://en.wikipedia.org/wiki/Microsoft_Excel
 [sap]: https://en.wikipedia.org/wiki/SAP
