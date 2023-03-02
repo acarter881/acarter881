@@ -2,12 +2,11 @@
 
 ### I'm a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant) and work as a Senior Financial Data Analyst at [Avalara](https://www.avalara.com/us/en/index.html).
 
-- 🌱 Recently, I've been working on gathering and analyzing data from [Tinder](https://github.com/acarter881/tinder_likes_data).
+- 🌱 Recently, I've been working on generating insights with [Alteryx Designer](https://www.alteryx.com/products/alteryx-designer).
 - 👯 I want to collaborate with other content creators (e.g., for YouTube videos or GitHub repositories). <br>
 I am looking for motivated individuals with experience in topics such as programming, problem solving, IT, cryptocurrency, social media, and finance. <br>
 Some example content creators I follow are **[Biaheza](https://www.youtube.com/c/biaheza)**, **[Fireship](https://www.youtube.com/c/Fireship)**, **[jdh](https://www.youtube.com/c/jdhvideo)**, **[Kalle Hallden](https://www.youtube.com/c/KalleHallden)**, **[Meet Kevin](https://www.youtube.com/c/MeetKevin)**, and **[Part Time Larry](https://www.youtube.com/c/parttimelarry)**. <br>
 If you're interested in creating similar content and/or enjoy web scraping, social experiments, data analytics, etc., then feel free to email me at acarter881@gmail.com.
-- 🥅 **2022** Goals: (1) Improve my technical abilities and (2) Grow my network.
 
 ### Connect with me:
 [<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/YouTube_Kids_LogoVector.svg/1267px-YouTube_Kids_LogoVector.svg.png"/>][youtube]
