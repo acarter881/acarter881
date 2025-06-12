@@ -26,7 +26,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 
 ### Latest YouTube videos:
 <!-- YOUTUBE:START -->
-- [Weighted Dips #shorts](https://www.youtube.com/watch?v=cRjShxw2nmE)
+- [Weighted Dips #shorts](https://www.youtube.com/shorts/cRjShxw2nmE)
 - [Make ASCII Art in Seconds!](https://www.youtube.com/watch?v=AOlrJKI3Mu0)
 - [CRANKDAT REACTS TO MARAUDA 🤣🎧](https://www.youtube.com/watch?v=elFtNGKOb3s)
 - [Yoi Bass in 1 MINUTE!](https://www.youtube.com/watch?v=eUNS3xFPwhc)
