@@ -9,7 +9,7 @@ Some example content creators I follow are **[Biaheza](https://www.youtube.com/c
 If you're interested in creating similar content and/or enjoy web scraping, social experiments, data analytics, etc., then feel free to email me at acarter881@gmail.com.
 
 ### Connect with me:
-[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/YouTube_Kids_LogoVector.svg/1267px-YouTube_Kids_LogoVector.svg.png"/>][youtube]
+[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://static.vecteezy.com/system/resources/previews/017/396/821/non_2x/youtube-kids-google-apps-logo-free-png.png"/>][youtube]
 [<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="acarter881 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>][instagram]
 
@@ -20,7 +20,7 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
 [<img align="left" alt="Excel" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888850.png"/>][excel]
 [<img align="left" alt="SAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1920px-SAP_2011_logo.svg.png"/>][sap]
-[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/1024px-Applications-database.svg.png"/>][sql]
+[<img align="left" alt="SQL" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png"/>][sql]
 
 <br />
 
