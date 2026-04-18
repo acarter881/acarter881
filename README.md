@@ -1,30 +1,28 @@
 # Hello, my name is `Alex`. 👋
-
+ 
 ### I'm a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant) and work as a Senior Financial Data Analyst at [Avalara](https://www.avalara.com/us/en/index.html).
-
+ 
 - 🌱 Recently, I've been working on generating insights with **[Alteryx Designer](https://www.alteryx.com/products/alteryx-designer)**.
 - 👯 I want to collaborate with other content creators (e.g., for YouTube videos or GitHub repositories). <br>
 I am looking for motivated individuals with experience in topics such as programming, problem solving, IT, cryptocurrency, social media, and finance. <br>
 Some example content creators I follow are **[Biaheza](https://www.youtube.com/c/biaheza)**, **[Fireship](https://www.youtube.com/c/Fireship)**, **[jdh](https://www.youtube.com/c/jdhvideo)**, **[Kalle Hallden](https://www.youtube.com/c/KalleHallden)**, **[Meet Kevin](https://www.youtube.com/c/MeetKevin)**, and **[Part Time Larry](https://www.youtube.com/c/parttimelarry)**. <br>
 If you're interested in creating similar content and/or enjoy web scraping, social experiments, data analytics, etc., then feel free to email me at acarter881@gmail.com.
-
 ### Connect with me:
-[<img align="left" alt="AlexCarter881 | YouTube" width="22px" src="https://static.vecteezy.com/system/resources/previews/017/396/821/non_2x/youtube-kids-google-apps-logo-free-png.png"/>][youtube]
-[<img align="left" alt="acarter881 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="acarter881 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>][instagram]
-
-<br />
-
+ 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/alexcarter881)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acarter881/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/acarter881/)
+ 
 ### Languages and tools:
-[<img align="left" alt="Alteryx" width="26px" src="https://imgur.com/YFvqQeU.jpg"/>][alteryx]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/>][python]
-[<img align="left" alt="Excel" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888850.png"/>][excel]
-[<img align="left" alt="SAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1920px-SAP_2011_logo.svg.png"/>][sap]
-[<img align="left" alt="SQL" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png"/>][sql]
-
-<br />
-
+ 
+[![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Alteryx)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Excel)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://en.wikipedia.org/wiki/SAP)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+ 
 ### Latest YouTube videos:
+ 
 <!-- YOUTUBE:START -->
 - [Make ASCII Art in Seconds!](https://www.youtube.com/watch?v=AOlrJKI3Mu0)
 - [CRANKDAT REACTS TO MARAUDA 🤣🎧](https://www.youtube.com/watch?v=elFtNGKOb3s)
@@ -32,12 +30,3 @@ If you're interested in creating similar content and/or enjoy web scraping, soci
 - [AMAZING Color Bass ID &lpar;ZEOL&rpar;](https://www.youtube.com/watch?v=JervoXivwso)
 - [Getter&#39;s 06.15.2020 Twitch Stream](https://www.youtube.com/watch?v=e_8NXybO7gc)
 <!-- YOUTUBE:END -->
-
-[youtube]: https://www.youtube.com/c/alexcarter881
-[instagram]: https://www.instagram.com/acarter881/
-[linkedin]: https://www.linkedin.com/in/acarter881/
-[alteryx]: https://en.wikipedia.org/wiki/Alteryx
-[python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[excel]: https://en.wikipedia.org/wiki/Microsoft_Excel
-[sap]: https://en.wikipedia.org/wiki/SAP
-[sql]: https://en.wikipedia.org/wiki/SQL
