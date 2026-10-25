@@ -36,15 +36,15 @@
 
 <p align="center">
   <strong>Data and analysis</strong><br>
-  <a href="https://www.python.org/">Python</a> ·
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">Excel</a> ·
-  <a href="https://www.alteryx.com/products/alteryx-designer">Alteryx Designer</a>
+  Python ·
+  Excel ·
+  Alteryx Designer
 </p>
 
 <p align="center">
   <strong>AI and development</strong><br>
-  <a href="https://openai.com/codex/">OpenAI Codex</a> ·
-  <a href="https://claude.com/product/claude-code">Claude Code</a>
+  OpenAI Codex ·
+  Claude Code
 </p>
 
 <h2 align="center">How I approach projects</h2>
