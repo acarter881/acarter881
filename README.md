@@ -24,7 +24,7 @@
 <h2 align="center">Investing</h2>
 
 <p align="center">
-  Investing has been a personal passion for years, spanning traditional financial markets and cryptocurrency.
+  Investing in stocks and cryptocurrency has been a personal passion for years.
 </p>
 
 <h2 align="center">Tools</h2>
