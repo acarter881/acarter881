@@ -63,6 +63,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/acarter881/">LinkedIn</a> ·
   <a href="mailto:acarter881@gmail.com">Email</a> ·
-  <a href="https://kalshi.com/ideas/profiles/straightforward.jackal">Kalshi (straightforward.jackal)</a> ·
+  <a href="https://kalshi.com/ideas/profiles/straightforward.jackal">Kalshi</a> ·
   <a href="https://www.instagram.com/acarter881/">Instagram (personal)</a>
 </p>
