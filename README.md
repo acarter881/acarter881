@@ -21,9 +21,8 @@
   My Kalshi work combines tool-assisted research and trading with automation. I use AI agents to develop and test the supporting software.
 </p>
 
-<h2 align="center">Investing</h2>
-
 <p align="center">
+  <strong>Self-directed investing</strong><br>
   Investing in stocks and cryptocurrency has been a personal passion for years.
 </p>
 
