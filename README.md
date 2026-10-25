@@ -23,7 +23,7 @@
 
 <p align="center">
   <strong>Self-directed investing</strong><br>
-  Investing in stocks and cryptocurrency has been a personal passion for years.
+  I invest in stocks and cryptocurrency to maximize returns and grow my net worth.
 </p>
 
 <h2 align="center">Tools</h2>
