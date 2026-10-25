@@ -47,15 +47,31 @@
   Claude Code
 </p>
 
-<h2 align="center">How I approach projects</h2>
+<h2 align="center">Selected accomplishments</h2>
 
 <p align="center">
-  Start with a concrete question, check the source data, and test assumptions before trusting the result.<br>
-  I value reproducible analysis, clear documentation, and automation that solves an actual problem.
+  <strong>Over 80% reduction in processing time</strong><br>
+  Translated financial models from Excel to Alteryx at Avalara.
 </p>
 
 <p align="center">
-  I'm interested in exchanging ideas and collaborating on financial analytics, practical AI applications, and reliable data workflows.
+  <strong>Over 90% reduction in manual input</strong><br>
+  Built Python automation using APIs and Amazon S3 at Avalara.
+</p>
+
+<p align="center">
+  <strong>Approximately $1 million in credit memos identified</strong><br>
+  Identified previously unrecognized sales-tax-only credit memos at Becton, Dickinson and Company.
+</p>
+
+<p align="center">
+  <strong>Hundreds of work hours saved</strong><br>
+  Built a desktop application to download invoices and credit memos in bulk at Becton, Dickinson and Company.
+</p>
+
+<p align="center">
+  <strong>Alteryx Inspire speaker · May 2025</strong><br>
+  Presented &ldquo;From Novice to Alteryx Expert in 6 Months.&rdquo;
 </p>
 
 <h2 align="center">Connect</h2>
