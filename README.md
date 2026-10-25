@@ -1,30 +1,67 @@
-# Alex Carter, CPA
+<h1 align="center">Alex Carter, CPA</h1>
 
-**Financial Data Analytics · Automation · Applied AI**
+<p align="center">
+  <strong>Certified Public Accountant · Licensed in Texas</strong><br>
+  Financial Data Analytics · Automation · Applied AI
+</p>
 
-I'm a **Senior Financial Data Analyst** at [Avalara](https://www.avalara.com/us/en/index.html). I bring an accounting perspective to data analytics, with a focus on clear analysis, repeatable workflows, and useful automation.
+<p align="center">
+  I'm a <strong>Senior Financial Data Analyst</strong> at <a href="https://www.avalara.com/us/en/index.html">Avalara</a>.<br>
+  I bring an accounting perspective to data analytics, with a focus on clear analysis, repeatable workflows, and useful automation.
+</p>
 
-## What I'm focused on
+<h2 align="center">What I'm focused on</h2>
 
-- **Financial analytics:** Turning financial and operational data into clear reporting, insights, and better business decisions.
-- **Workflow automation:** Using code and analytics tools to simplify data preparation, reduce repetitive work, and improve consistency.
-- **AI-assisted development:** Working with coding agents to research problems, build tools, and refine implementations, with an emphasis on review, testing, and documentation.
-- **Independent market research:** Building personal projects around prediction-market data, API integrations, execution workflows, and latency measurement.
+<p align="center">
+  <strong>Financial analytics</strong><br>
+  Turning financial and operational data into clear reporting, insights, and better business decisions.
+</p>
 
-## Tools
+<p align="center">
+  <strong>Workflow automation</strong><br>
+  Using code and analytics tools to simplify data preparation, reduce repetitive work, and improve consistency.
+</p>
 
-| Area | Tools |
-| --- | --- |
-| Data and analysis | [Python](https://www.python.org/), SQL, [Excel](https://www.microsoft.com/en-us/microsoft-365/excel), [Alteryx Designer](https://www.alteryx.com/products/alteryx-designer) |
-| AI and development | [OpenAI Codex](https://openai.com/codex/), [Claude Code](https://claude.com/product/claude-code), [ChatGPT](https://chatgpt.com/), [GitHub](https://github.com/) |
-| Business systems | [SAP](https://www.sap.com/) |
+<p align="center">
+  <strong>AI-assisted development</strong><br>
+  Working with coding agents to research problems, build tools, and refine implementations, with an emphasis on review, testing, and documentation.
+</p>
 
-## How I approach projects
+<p align="center">
+  <strong>Independent market research</strong><br>
+  Building personal projects around prediction-market data, API integrations, execution workflows, and latency measurement.
+</p>
 
-Start with a concrete question, check the source data, and test assumptions before trusting the result. I value reproducible analysis, clear documentation, and automation that solves an actual problem.
+<h2 align="center">Tools</h2>
 
-I'm interested in exchanging ideas and collaborating on financial analytics, practical AI applications, and reliable data workflows.
+<p align="center">
+  <strong>Data and analysis</strong><br>
+  <a href="https://www.python.org/">Python</a> ·
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">Excel</a> ·
+  <a href="https://www.alteryx.com/products/alteryx-designer">Alteryx Designer</a>
+</p>
 
-## Connect
+<p align="center">
+  <strong>AI and development</strong><br>
+  <a href="https://openai.com/codex/">OpenAI Codex</a> ·
+  <a href="https://claude.com/product/claude-code">Claude Code</a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/acarter881/) · [Email](mailto:acarter881@gmail.com) · [Instagram (personal)](https://www.instagram.com/acarter881/)
+<h2 align="center">How I approach projects</h2>
+
+<p align="center">
+  Start with a concrete question, check the source data, and test assumptions before trusting the result.<br>
+  I value reproducible analysis, clear documentation, and automation that solves an actual problem.
+</p>
+
+<p align="center">
+  I'm interested in exchanging ideas and collaborating on financial analytics, practical AI applications, and reliable data workflows.
+</p>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/acarter881/">LinkedIn</a> ·
+  <a href="mailto:acarter881@gmail.com">Email</a> ·
+  <a href="https://www.instagram.com/acarter881/">Instagram (personal)</a>
+</p>
