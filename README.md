@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>Independent Kalshi projects</strong><br>
-  I build tools for prediction-market research and trading automation, using AI agents to develop and test the software.
+  My Kalshi work combines tool-assisted research and trading with automation. I use AI agents to develop and test the supporting software.
 </p>
 
 <h2 align="center">Tools</h2>
